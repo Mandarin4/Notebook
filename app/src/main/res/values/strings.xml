@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Заметки</string>
+    <string name="empty">Заголовок или описание не заполнено!!!</string>
+    <string name="truesave">Сохранено!</string>
+</resources>
